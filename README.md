@@ -3,7 +3,8 @@
 A one-page dashboard for a student who is **mid-process** on scholarship
 applications. Built by Matt Morlan.
 
-**Live:** _add Vercel URL_
+**Live:** https://awardspring-dashboard.vercel.app
+**Repo:** https://github.com/mmorlan/awardspring-dashboard
 **Stack:** Next.js (App Router) · TypeScript · Tailwind · no backend
 
 ```bash
