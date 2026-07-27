@@ -94,17 +94,17 @@ export const applications: Application[] = [
     ],
   },
   {
-    id: "ewe",
-    name: "Evanston Women in Engineering Award",
+    id: "efa",
+    name: "Evanston Engineering Futures Award",
     sponsor: "Evanston Engineering Alliance",
     amount: 10000,
     deadline: dateInDays(34),
     status: "draft",
     requirements: [
-      todo("ewe-1", "Project portfolio — 3 pieces"),
-      todo("ewe-2", "Essay — a problem worth solving (600 words)"),
-      todo("ewe-3", "Official transcript"),
-      todo("ewe-4", "Activities résumé"),
+      todo("efa-1", "Project portfolio — 3 pieces"),
+      todo("efa-2", "Essay — a problem worth solving (600 words)"),
+      todo("efa-3", "Official transcript"),
+      todo("efa-4", "Activities résumé"),
     ],
   },
   {
